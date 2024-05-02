@@ -1,4 +1,4 @@
-# **MINI RESUMEN DEL Actividades.pdf**
+# **sintesis del Actividades.pdf**
 # Fundamentos de Programación - Trabajo Práctico Número 1
 
 ## Introducción
