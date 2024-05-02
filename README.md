@@ -17,21 +17,18 @@ Este repositorio contiene una colección de trabajos y proyectos realizados dura
 ## Tecnologías Utilizadas
 
 Los proyectos de programación pueden involucrar el uso de las siguientes tecnologías:
+- Bash
 - C
 - Python
 - HTML/CSS/JavaScript
-- Bash
 
 ## Trabajos Destacados
 
 1. **Proyecto de Sistema de Gestión de Biblioteca (Java)**: Una aplicación de consola para gestionar libros, usuarios y préstamos en una biblioteca.
 2. **Ensayo sobre Impacto Ambiental de la Tecnología**: Un análisis de los efectos ambientales de la tecnología moderna en la sociedad.
 3. **Presentación sobre Inteligencia Artificial**: Una introducción a los conceptos básicos de la inteligencia artificial y sus aplicaciones.
+4. **Proyecto de sistema de temperaturas**: Desarrollo de un programa modularizado en C para analizar temperaturas, incluyendo ingreso de datos, cálculos y generación de informes.
 
 ## Contacto
 
-Si tienes alguna pregunta sobre alguno de los trabajos o estás interesado en colaboraciones, no dudes en contactarme a través de mi correo electrónico: ejemplo@email.com.
-
-## Licencia
-
-Este repositorio está disponible bajo la licencia MIT. Consulta el archivo LICENSE.md para obtener más información.
+Si tienes alguna pregunta sobre alguno de los trabajos o estás interesado en colaboraciones, no dudes en contactarme a través de mi correo electrónico: nmazzeo@fi.uba.ar.
