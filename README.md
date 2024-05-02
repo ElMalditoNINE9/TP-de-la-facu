@@ -1,2 +1,0 @@
-# TP-de-la-facu
-TRABAJOS DE LA FACULTAD
