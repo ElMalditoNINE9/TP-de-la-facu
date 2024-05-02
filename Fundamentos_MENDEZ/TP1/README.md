@@ -1,3 +1,4 @@
+# **MINI RESUMEN DEL Actividades.pdf**
 # Fundamentos de Programación - Trabajo Práctico Número 1
 
 ## Introducción
@@ -15,4 +16,3 @@ Se debe escribir un programa C modularizado para analizar temperaturas en 491 pl
 
 ## Entrega
 El cumplimiento de los requisitos no garantiza la aprobación. Se corregirá el cumplimiento de buenas prácticas. Entrega en un archivo zip solo con los archivos de código.
-**MINI RESUMEN DEL Actividades.pdf**
